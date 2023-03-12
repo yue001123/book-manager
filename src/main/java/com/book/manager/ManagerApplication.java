@@ -17,6 +17,7 @@ public class ManagerApplication {
 		System.out.println("| ---------------------------------------------------------------------------------- |");
 		System.out.println("hot-fix");
 		System.out.println("master test");
+		System.out.println("hot-fix test");
 	}
 
 }
