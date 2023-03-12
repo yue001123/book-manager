@@ -15,6 +15,7 @@ public class ManagerApplication {
 		System.out.println("| ---------------------------------------------------------------------------------- |");
 		System.out.println("|                                    Started Success                                 |");
 		System.out.println("| ---------------------------------------------------------------------------------- |");
+		System.out.println("hot-fix");
 	}
 
 }
